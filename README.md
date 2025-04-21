@@ -2,7 +2,7 @@
 
 ![GitHub Contribution Designer Preview](preview.png)
 
-## 🚀 [Try it Live](https://github-contribution-designer.vercel.app)
+## 🚀 [Try it Live](https://github-contribution-designer.vercel.app)⬅
 
 A visual tool that allows you to design custom GitHub contribution patterns and implement them through the GitHub API.
 
