@@ -1,8 +1,8 @@
-# GitHub Contribution Designer
+# GitHub Contribution Manipulator
 
-![GitHub Contribution Designer Preview](preview.png)
+![GitHub Contribution Manipulator Preview](preview.png)
 
-## 🚀 [Try it Live](https://github-contribution-designer.vercel.app)⬅
+## 🚀 [Try it Live](https://github-contribution-manipulator.vercel.app/)⬅
 
 A visual tool that allows you to design custom GitHub contribution patterns and implement them through the GitHub API.
 
@@ -29,7 +29,7 @@ The tool uses GitHub's API to create commits with custom timestamps. When you se
 
 ### 📝 Usage
 
-1. Visit the [live application](https://github-contribution-designer.vercel.app)
+1. Visit the [live application](https://github-contribution-manipulator.vercel.app/)
 2. Log in with your GitHub account
 3. Select a repository from your account
 4. Design your contribution pattern using the visual interface
@@ -68,7 +68,7 @@ Alat ini menggunakan API GitHub untuk membuat commit dengan timestamp kustom. Ke
 
 ### 📝 Penggunaan
 
-1. Kunjungi [aplikasi langsung](https://github-contribution-designer.vercel.app)
+1. Kunjungi [aplikasi langsung](https://github-contribution-manipulator.vercel.app/)
 2. Masuk dengan akun GitHub Anda
 3. Pilih repositori dari akun Anda
 4. Desain pola kontribusi Anda menggunakan antarmuka visual
@@ -90,7 +90,7 @@ Alat ini dirancang untuk tujuan pendidikan untuk mendemonstrasikan bagaimana sis
 
 ## 📷 Preview
 
-![GitHub Contribution Designer Interface](interface.png)
+![GitHub Contribution Manipulator Interface](interface.png)
 
 ## 👨‍💻 Author
 
